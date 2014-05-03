@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Allan Hortle</string>
+	<key>comment</key>
+	<string>A widget theme for the UI components of the Centurion Theme</string>
+	<key>name</key>
+	<string>Centurion - Widget Theme</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#1e1e1e</string>
+				<key>caret</key>
+				<string>#f1e3e2</string>
+				<key>foreground</key>
+				<string>#f1e3e2</string>
+				<key>invisibles</key>
+				<string>#8a8585</string>
+				<key>selection</key>
+				<string>#8a8585</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
