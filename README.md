@@ -3,7 +3,7 @@ Augmented Reaction
 
 A Sublime Text theme, inspired by the video game Vanquish and companion to the [iTerm colour scheme of the same name](https://github.com/ESWAT/augmented-reaction.itermcolors). Based off of [Centurion](https://github.com/allanhortle/Centurion) but removing even more unecessary decoration and chrome.
 
-![Augmented Reaction theme](https://raw.github.com/ESWAT/augmentedreaction-theme/master/AR.png)
+![Augmented Reaction theme](https://raw.github.com/ESWAT/augmentedreaction-theme/master/Augmented Reaction.png)
 
 Installation
 ------------------------------------------------------------------------
