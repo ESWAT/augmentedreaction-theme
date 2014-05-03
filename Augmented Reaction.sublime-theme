@@ -68,7 +68,7 @@
     // Tab close button
     {
         "class": "tab_close_button",
-        "layer0.texture": "Theme - AR/AR/cross.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/cross.png",
         "layer0.opacity": 0,
         "layer0.tint": [100,100,100]
     },
@@ -93,7 +93,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty"]}],
-        "layer0.texture": "Theme - AR/AR/circle.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/circle.png",
         "layer0.tint": [78,166,131],
         "layer0.opacity": 1
     },
@@ -107,7 +107,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
-        "layer0.texture": "Theme - AR/AR/cross.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/cross.png",
         "layer0.opacity": 1
     },
     {
@@ -165,7 +165,7 @@
 
     {
         "class": "fold_button_control",
-        "layer0.texture": "Theme - AR/AR/arrow.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/arrow.png",
         "layer0.opacity": 0.4,
         "layer0.inner_margin": 0,
         "content_margin": [8,8]
@@ -178,7 +178,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - AR/AR/arrow-down.png"
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/arrow-down.png"
     },
     {
         "class": "fold_button_control",
@@ -493,13 +493,13 @@
         "class": "close_button",
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
         "layer0.opacity": 1,
-        "layer0.texture": "Theme - AR/AR/cross.png"
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/cross.png"
     },
     // Sidebar file dirty
     {
         "class": "close_button",
         "attributes": ["dirty"],
-        "layer0.texture": "Theme - AR/AR/circle.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/circle.png",
         "layer0.opacity": 1,
         "layer0.tint": [124,255,209]
     },
@@ -507,25 +507,25 @@
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - AR/AR/cross.png"
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/cross.png"
     },
     {
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - AR/AR/cross.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/cross.png",
         "layer0.opacity": 1
     },
     // Sidebar file close hover
     {
         "class": "close_button",
         "attributes": ["hover"],
-        "layer0.texture": "Theme - AR/AR/cross.png"
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/cross.png"
     },
     {
         "class": "close_button",
         "parents": [{"class": "tree_row","attributes": ["hover","selected"]}],
-        "layer0.texture": "Theme - AR/AR/cross.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/cross.png",
         "layer0.opacity": 1
     },
 
@@ -537,7 +537,7 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [8,8],
-        "layer0.texture": "Theme - AR/AR/folder-closed.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/folder-closed.png",
         "layer0.tint": [72,72,72],
         "layer0.opacity": 1,
         "layer0.inner_margin": 0
@@ -555,7 +555,7 @@
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
-        "layer0.texture": "Theme - AR/AR/folder-closed.png"
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/folder-closed.png"
     },
     {
         "class": "disclosure_button_control",
@@ -566,13 +566,13 @@
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - AR/AR/folder-closed.png"
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/folder-closed.png"
     },
     // Sidebar group open
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - AR/AR/folder-open.png"
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/folder-open.png"
     },
     {
         "class": "disclosure_button_control",
@@ -583,28 +583,28 @@
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - AR/AR/folder-open.png"
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/folder-open.png"
     },
     // Sidebar folder open
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - AR/AR/folder-open.png"
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/folder-open.png"
     },
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - AR/AR/folder-open.png"
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/folder-open.png"
     },
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - AR/AR/folder-open.png"
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/folder-open.png"
     },
 
 //
@@ -833,7 +833,7 @@
     // Regex search button
     {
         "class": "icon_regex",
-        "layer0.texture": "Theme - AR/AR/asterisk.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/asterisk.png",
         "layer0.opacity": 1,
         "layer0.tint": [138,133,133],
         "content_margin": 9
@@ -848,7 +848,7 @@
     // Case sensitive search button
     {
         "class": "icon_case",
-        "layer0.texture": "Theme - AR/AR/capital.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/capital.png",
         "layer0.opacity": 1,
         "layer0.tint": [138,133,133],
         "content_margin": 9
@@ -862,7 +862,7 @@
     // Match whole word search button
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Theme - AR/AR/quotes.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/quotes.png",
         "layer0.opacity": 1,
         "layer0.tint": [138,133,133],
         "content_margin": 9
@@ -881,7 +881,7 @@
     // Show search context button
     {
         "class": "icon_context",
-        "layer0.texture": "Theme - AR/AR/selection.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/selection.png",
         "layer0.opacity": 1,
         "layer0.tint": [138,133,133],
         "content_margin": 9
@@ -895,7 +895,7 @@
     // Use search buffer
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Theme - AR/AR/page.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/page.png",
         "layer0.opacity": 1,
         "layer0.tint": [138,133,133],
         "content_margin": 9
@@ -914,7 +914,7 @@
     // Reverse search direction button (ST2 only)
     {
         "class": "icon_reverse",
-        "layer0.texture": "Theme - AR/AR/reverse.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/reverse.png",
         "layer0.opacity": 1,
         "layer0.tint": [138,133,133],
         "content_margin": 9
@@ -928,7 +928,7 @@
     // Search wrap button
     {
         "class": "icon_wrap",
-        "layer0.texture": "Theme - AR/AR/wrap.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/wrap.png",
         "layer0.opacity": 1,
         "layer0.tint": [138,133,133],
         "content_margin": 9
@@ -942,7 +942,7 @@
     // Search in selection button
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Theme - AR/AR/selection.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/selection.png",
         "layer0.opacity": 1,
         "layer0.tint": [138,133,133],
         "content_margin": 9
@@ -961,7 +961,7 @@
     // Preserve case button
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Theme - AR/AR/capital.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/capital.png",
         "layer0.opacity": 1,
         "layer0.tint": [138,133,133],
         "content_margin": 9
@@ -980,7 +980,7 @@
     // Highlight results button
     {
         "class": "icon_highlight",
-        "layer0.texture": "Theme - AR/AR/highlight.png",
+        "layer0.texture": "Theme - Augmented Reaction/Augmented Reaction/highlight.png",
         "layer0.opacity": 1,
         "layer0.tint": [138,133,133],
         "content_margin": 9
