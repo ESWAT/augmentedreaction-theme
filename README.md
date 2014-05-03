@@ -7,14 +7,6 @@ A Sublime Text theme, inspired by the video game Vanquish and companion to the [
 
 Installation
 ------------------------------------------------------------------------
-###Package Control
-
-Just install it and make sure to update your `Settings - User` file with:
-
-    "theme": "Augmented Reaction.sublime-theme"
-
-
-###Manual
 
 Clone it into your packages directory. These are OSX paths because I'm lazy like that. For Windows/Other just substitute your paths like a boss.
 
