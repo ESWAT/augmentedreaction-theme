@@ -9,7 +9,7 @@ Installation
 ------------------------------------------------------------------------
 ###Package Control
 
-Just install it and make sure to update your `Settings - User` file with:
+Search for [Theme - Augmented Reaction](https://sublime.wbond.net/packages/Theme - Augmented Reaction), install it and make sure to update your `Settings - User` file with:
 
 ```
 {
