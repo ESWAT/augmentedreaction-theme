@@ -11,7 +11,12 @@ Installation
 
 Just install it and make sure to update your `Settings - User` file with:
 
-    "theme": "Augmented Reaction.sublime-theme"
+```
+{
+    "theme": "Augmented Reaction.sublime-theme",
+    "color_scheme": "Packages/Theme - Augmented Reaction/Augmented Reaction.tmTheme"
+}
+```
 
 ###Manual
 Clone it into your packages directory. These are OSX paths because I'm lazy like that. For Windows/Other just substitute your paths like a boss.
@@ -25,6 +30,11 @@ Unless of course you feel like experiencing the wrath of no icons.
 
 Back to Sublime Text, press `super+,` to access your `Settings - User` and insert:
 
-        "theme": "Augmented Reaction.sublime-theme"
+```
+{
+    "theme": "Augmented Reaction.sublime-theme",
+    "color_scheme": "Packages/Theme - Augmented Reaction/Augmented Reaction.tmTheme"
+}
+```
 
 If it looks like crap make sure to restart Sublime before crying.
