@@ -532,7 +532,15 @@
 //
 // SIDEBAR - GENERAL FILE ICONS
 //
-
+    // Sidebar group / folder icon Sublime Text 3 reset
+    {
+        "class": "icon_file_type",
+        "content_margin": [0,0]
+    },
+    {
+        "class": "icon_folder",
+        "content_margin": [0,0]
+    },
     // Sidebar group closed
     {
         "class": "disclosure_button_control",
